@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krutinpolra
-- 👀 I’m interested in game designing 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning computer programming and analysis at seneca 
 - 📫 How to reach me mail: krutinpolra1444@gmail.com
 
