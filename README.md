@@ -1,4 +1,4 @@
-![MasterHead]((https://github.com/krutinpolra/krutinpolra/raw/main/github-header-image (1).png))
+![MasterHead]((/header.png)))
 <h1 align="center">Hi 👋, I'm KRUTIN</h1>
 <h3 align="center">Web Development Enthusiast | Exploring the World of Code and Creativity</h3>
 
