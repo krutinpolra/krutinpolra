@@ -1,4 +1,4 @@
-[![MasterHead](https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif)]
+![MasterHead]((https://github.com/krutinpolra/krutinpolra/raw/main/github-header-image (1).png))
 <h1 align="center">Hi 👋, I'm KRUTIN</h1>
 <h3 align="center">Web Development Enthusiast | Exploring the World of Code and Creativity</h3>
 
