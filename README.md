@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutinpolra&label=Profile%20views&color=0e75b6&style=flat" alt="krutinpolra" /> </p>
 
-- 🔭 I’m currently working on [PlasticSnap](https://github.com/krutinpolra/Fresh_Hacks_reward_system)
+- 🔭 I’m currently working on [PlasticSnap]([https://plasticsnap-git-main-krutinpolras-projects.vercel.app])
 
 - 🌱 I’m currently learning **python**
 
