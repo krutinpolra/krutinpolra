@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/krutinpolra/krutinpolra/blob/main/header.png)](https://github.com/krutinpolra/krutinpolra/blob/main/header.png)
+
 <h1 align="center">Hi 👋, I'm KRUTIN</h1>
 <h3 align="center">Web Development Enthusiast | Turning Ideas into Interactive Digital Experiences</h3>
 
