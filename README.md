@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=krutinpolra&label=Profile%20views&color=0e75b6&style=flat" alt="krutinpolra" /> 
 </p>
 
-- 🔭 I’m currently working on [Seneca Software Developer Club - Website](https://github.com/Seneca-Software-Developers-Club/ssdc-website)
+- 🔭 I’m currently working on [My PortFolio]([(https://github.com/krutinpolra/portfolio-site)])
 
 - 🌱 I’m currently learning **DevOps in Microsoft Azure and advanced backend technologies**
 
