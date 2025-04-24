@@ -7,7 +7,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=krutinpolra&label=Profile%20views&color=0e75b6&style=flat" alt="krutinpolra" /> 
 </p>
-- 👨‍💻 Software Developer at Ministry of Children Community and Social Services [MCCSS]
+- 👨‍💻 Software Developer at Ministry of Children Community and Social Services [MCCSS]  
 - 🔭 Know more about me by visiting 👉[My PortFolio](https://www.krutinpolra.com)
 
 - 🌱 I’m currently learning **DevOps in Microsoft Azure and advanced backend technologies**
