@@ -11,7 +11,7 @@
 
 ---
 
-- 👨‍💻 Software Developer at **Ministry of Children, Community and Social Services (MCCSS)**
+- 👨‍💻 ex-Software Developer at **Ministry of Children, Community and Social Services (MCCSS)**
 - 🔭 Know more about me 👉 [My Portfolio](https://www.krutinpolra.com)
 - 🌱 Currently learning **DevOps on Microsoft Azure** & **advanced backend technologies**
 - 💬 Ask me about: **C, C++, JavaScript, MERN Stack, Cloud technologies**
