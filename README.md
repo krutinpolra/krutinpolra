@@ -1,69 +1,182 @@
-<h1 align="center">Hi 👋, I'm KRUTIN</h1>
-<h3 align="center">Web Development Enthusiast | Turning Ideas into Interactive Digital Experiences</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="Coding" width="400"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=180&section=header&text=Hi%20👋,%20I'm%20Krutin%20Polra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krutinpolra&label=Profile%20views&color=0e75b6&style=flat" alt="krutinpolra" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Developer;Full-Stack+Developer;Angular+%7C+React+%7C+TypeScript;Cloud+%26+AI+Enthusiast;Building+clean,+scalable,+user-focused+apps" alt="Typing SVG" />
+
+</div>
 
 ---
 
-- 👨‍💻 ex-Software Developer at **Ministry of Children, Community and Social Services (MCCSS)**
-- 🔭 Know more about me 👉 [My Portfolio](https://www.krutinpolra.com)
-- 🌱 Currently learning **DevOps on Microsoft Azure** & **advanced backend technologies**
-- 💬 Ask me about: **C, C++, JavaScript, MERN Stack, Cloud technologies**
+## 👨‍💻 About Me
+
+Hi, I'm **Krutin Polra**, a **Computer Programming and Analysis graduate from Seneca Polytechnic** and a passionate **Software Developer** based in **Toronto, Canada**.
+
+I have hands-on experience building **secure, scalable, and accessible web applications** through enterprise co-op work, academic projects, and personal full-stack applications.
+
+- 💼 Former **Software Developer Co-op** at **Ontario Ministry / MCCSS**
+- 🚀 Experienced with **Angular**, **React**, **TypeScript**, **JavaScript**, **Node.js**, **REST APIs**, and **cloud technologies**
+- 🧠 Interested in **AI-powered applications**, **developer tools**, **cloud engineering**, and **full-stack product development**
+- 🛠️ Currently improving my skills in **DevOps**, **Microsoft Azure**, **backend architecture**, and **system design**
 - 📫 Reach me at: **krutinpolra1444@gmail.com**
-- ⚡ Fun fact: 🚀 Orbiting new tech stacks while brewing sustainable solutions for tomorrow
+- 🌐 Portfolio: [**krutinpolra.com**](https://www.krutinpolra.com)
 
 ---
 
-### 🌐 Connect with me:
+## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/krutin-polra" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  <a href="https://www.krutinpolra.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://instagram.com/k_p_1444" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30"/>
+  <a href="https://www.linkedin.com/in/krutinpolra1444/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/krutinpolra" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:krutinpolra1444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,cpp,c" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,sass,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,postman" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,githubactions,git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🚀 Featured Projects
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krutinpolra&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</p>
+### 🏛️ My Benefits Platform  
+**Tech:** **Angular**, **TypeScript**, **REST APIs**, **Azure DevOps**, **SonarQube**, **OWASP ZAP**, **WCAG**
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krutinpolra&show_icons=true&locale=en" alt="GitHub Stats"/>
-</p>
+Contributed to a large-scale public-sector web application serving Ontario residents. Improved **test coverage by 80%**, supported **CI/CD workflows**, improved maintainability, and helped reduce security vulnerabilities through **OWASP ZAP** and **SonarQube** quality checks.
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krutinpolra" alt="GitHub Streak"/>
-</p>
+---
+
+### 🏥 Hamdel Healthcare Marketplace Platform  
+**Tech:** **React**, **TypeScript**, **Node.js**, **Express**, **Prisma**, **PostgreSQL**, **Supabase**, **Docker**, **Tailwind CSS**
+
+Built a full-stack healthcare marketplace connecting patients and caregivers with workflows for **profile completion**, **KYC**, **certification upload**, **scheduling**, **messaging**, **payments**, **notifications**, and **admin review**.
+
+- Built **80+ REST endpoints**
+- Designed **23 Prisma models**
+- Managed **16 database migrations**
+- Organized backend logic across **18 route modules**
+
+---
+
+### 🏨 Hotel Reservation System  
+**Tech:** **Java**, **JavaFX**, **SQLite**, **JDBC**, **MVC**, **OOP**
+
+Built a hotel booking system to manage **guests**, **rooms**, **reservations**, **updates**, **cancellations**, and **checkout workflows**. Applied **object-oriented programming**, **MVC architecture**, **CRUD operations**, **database persistence**, and multi-screen JavaFX user-flow logic.
+
+---
+
+### 🧩 Fragments Microservice  
+**Tech:** **Node.js**, **Express**, **AWS S3**, **DynamoDB**, **Amazon Cognito**, **Docker**, **GitHub Actions**, **Hurl**, **Sharp**
+
+Developed a backend microservice for creating, updating, deleting, and converting fragments between formats such as **Markdown**, **HTML**, **CSV**, **JSON**, **YAML**, and image formats. Added **authentication**, **cloud storage**, **CI/CD**, and **integration testing**.
+
+---
+
+### 🤖 AI Tooling Suite  
+**Tech:** **OpenAI/OpenRouter SDK**, **Zod**, **Tavily**, **Hono**, **Sharp**, **Embeddings**, **Agents**
+
+Built AI-powered developer tools including an **embeddings-based semantic search system**, a **visual debugging assistant**, and a **source credibility analyzer agent** that reads URLs, checks supporting evidence, and generates structured reports.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=krutinpolra&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutinpolra&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=krutinpolra&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krutinpolra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krutinpolra&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/krutinpolra/krutinpolra/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## ✨ What I’m Focused On
+
+- Building **production-quality full-stack applications**
+- Improving **frontend performance** and **accessibility**
+- Learning deeper **cloud engineering** and **DevOps**
+- Exploring **AI agents**, **LLM tooling**, and **automation**
+- Growing through **open-source contributions** and real-world projects
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" />
+
+</div>
