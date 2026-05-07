@@ -124,13 +124,13 @@ Built AI-powered developer tools including an **embeddings-based semantic search
 
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=krutinpolra&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=krutinpolra&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" 
     alt="Krutin's GitHub Stats" 
   />
 
   <img 
     width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=krutinpolra&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krutinpolra&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" 
     alt="Top Languages" 
   />
 
@@ -142,7 +142,7 @@ Built AI-powered developer tools including an **embeddings-based semantic search
 
   <img 
     width="60%" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=krutinpolra&amp;theme=tokyonight&amp;hide_border=true" 
+    src="https://streak-stats.demolab.com?user=krutinpolra&amp;theme=tokyonight&amp;hide_border=true" 
     alt="GitHub Streak" 
   />
 
