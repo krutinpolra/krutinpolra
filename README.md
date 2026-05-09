@@ -14,7 +14,7 @@ Hi, I'm **Krutin Polra**, a **Computer Programming and Analysis graduate from Se
 
 I have hands-on experience building **secure, scalable, and accessible web applications** through enterprise co-op work, academic projects, and personal full-stack applications.
 
-- 💼 Former **Software Developer Co-op** at **Ontario Ministry / MCCSS**
+- 💼 Former **Software Developer Co-op** at **Ontario Ministry / MPBSDP**
 - 🚀 Experienced with **Angular**, **React**, **TypeScript**, **JavaScript**, **Node.js**, **REST APIs**, and **cloud technologies**
 - 🧠 Interested in **AI-powered applications**, **developer tools**, **cloud engineering**, and **full-stack product development**
 - 🛠️ Currently improving my skills in **DevOps**, **Microsoft Azure**, **backend architecture**, and **system design**
